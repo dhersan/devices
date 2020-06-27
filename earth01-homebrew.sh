@@ -24,7 +24,7 @@ brew install cfssl
 ### jq
 # https://stedolan.github.io/jq/
 brew install jq
-### jq
+### yq
 # https://github.com/mikefarah/yq
 brew install yq
 ### Nred Fonts
