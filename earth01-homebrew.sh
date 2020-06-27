@@ -9,6 +9,7 @@
 ### Homebrew
 # https://brew.sh/
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew upgrade
 
 # ------------------------------------------------------------------------------
 # Utilities
@@ -79,3 +80,5 @@ brew install terraformer
 ### kubectl
 # https://kubernetes.io/docs/tasks/tools/install-kubectl/
 brew install kubectl
+
+brew cleanup
