@@ -24,6 +24,9 @@ brew install cfssl
 ### jq
 # https://stedolan.github.io/jq/
 brew install jq
+### jq
+# https://github.com/mikefarah/yq
+brew install yq
 ### Nred Fonts
 # https://www.nerdfonts.com/
 brew tap homebrew/cask-fonts
@@ -62,6 +65,7 @@ brew cask install google-cloud-sdk
 ### OCI CLI
 # https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
 brew install jpoon/homebrew-oci-cli/oci-cli
+
 # ------------------------------------------------------------------------------
 # Terraform Tools
 # ------------------------------------------------------------------------------
